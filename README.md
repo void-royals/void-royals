@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-⚙️ Skills
+## ⚙️ Skills
+
 <img src="https://skillicons.dev/icons?i=ts,html,css,nodejs,react,nextjs,threejs,vercel,vite,sass,tailwind,php,laravel,wordpress,mysql&perline=6" />
 
-🔨 Tools
+## 🔨 Tools
+
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,vscode,vim,notion,postman&perline=6" />
 
 <!--
