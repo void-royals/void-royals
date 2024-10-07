@@ -1,12 +1,6 @@
-## Hi there 👋
+## ⚙️ Skills & Tools
 
-## ⚙️ Skills
-
-<img src="https://skillicons.dev/icons?i=ts,html,css,nodejs,react,nextjs,threejs,vercel,vite,sass,tailwind,php,laravel,wordpress,mysql&perline=6" />
-
-## 🔨 Tools
-
-<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,vscode,vim,notion,postman&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,nextjs,threejs,vercel,vite,sass,tailwind,wordpress,figma,xd,ai,ps&perline=8" />
 
 <!--
 **void-royals/void-royals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
